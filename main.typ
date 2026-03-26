@@ -19,8 +19,36 @@
 )
 
 
-
 // ---------- Title Page ----------
+#linebreak()
+
+#align(center)[
+  #rect(inset: 2em)[
+    #smallcaps()[
+      #text(size: 2.6em)[Foundations of Computer Networking]
+    ]
+
+    #text(size: 14pt)[A Study of General Networking Topics From a Student's Perspective]
+]]
+
+#v(4em)
+
+#align(center)[
+  #text(size: 14pt)[Author: \ Justin Joslin]
+]
+
+#v(2em)
+
+#align(center)[
+  #text(size: 14pt)[
+  Editors: \
+  Jackson Collins, \
+  Keith Beavers, \
+  Max Musterman
+  ]
+]
+
+//end of content
 #pagebreak()
 
 // ---------- ToC Page(s) ----------
@@ -43,8 +71,35 @@
 )
 
 // section content
-= This is a heading!
-And this is text.
+= What is Computer Networking?
+
+= TCP/IP Model
+
+= The OSI Model
+
+= Cables and Signals
+
+= Local Area Networks (LANs)
+
+= Network Traffic and Switching
+
+= IP Addressing
+
+= The Fundamentals of Routing
+
+= TCP and UDP 
+
+= Network Services and Protocols
+
+= Wireless Networking
+
+= Network Security and Encryption
+
+= Wide Area Networks (WANs)
+
+= Managing a Network
+
+= Practical Applications of a Network
 
 //end of section
 #pagebreak()
