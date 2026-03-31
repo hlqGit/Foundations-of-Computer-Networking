@@ -1,9 +1,10 @@
-#import "template/simple_textbook.typ": *
+#import "../template/simple_textbook.typ": *
 
 #bh("License & Information")
 #v(1em)
 #sh("About the Textbook")
 #v(0.25em)
+
 #tab This textbook was created to help develop *my* understanding of the
 fundemental concepts of networking. When I began looking around
 for jobs/internships within the networking industry, I slowly realized 

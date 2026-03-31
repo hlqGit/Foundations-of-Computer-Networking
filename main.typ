@@ -7,7 +7,7 @@
   editors: "Jackson Collins, Keith Beavers, Max Musterman"
 )
 
-#include("licenseandinfo.typ")
-#include("ToC.typ")
+#include("misc/licenseandinfo.typ")
+#include("misc/ToC.typ")
 
 #include("chapters/chapter_one.typ")

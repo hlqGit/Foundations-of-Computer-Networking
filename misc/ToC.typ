@@ -1,4 +1,4 @@
-#import "template/simple_textbook.typ": *
+#import "../template/simple_textbook.typ": *
 
 #bh("Table of Contents")
 \
