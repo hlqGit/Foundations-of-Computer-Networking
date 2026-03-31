@@ -5,6 +5,9 @@
 #let author = "Justin Joslin"
 #let license = "CC BY-NC-SA 4.0"
 
+#let bh(phrase) = text(size: 1.4em, weight: "bold")[#phrase]
+#let sh(phrase) = text(size: 1.2em, weight: "bold")[#phrase]
+
 #set page(
   paper: "a4"
   )
