@@ -2,7 +2,6 @@
 
 #bh("Table of Contents")
 \
-\
 #outline(
   title: none
 )

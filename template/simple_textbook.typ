@@ -1,8 +1,8 @@
 #import "@preview/gentle-clues:1.3.1": *
 
 // definitions
-#let bh(phrase) = text(size: 1.4em, weight: "bold")[#phrase]
-#let sh(phrase) = text(size: 1.2em, weight: "bold")[#phrase]
+#let bh(phrase) = text(size: 1.4em, weight: "bold")[#phrase #linebreak()]
+#let sh(phrase) = text(size: 1.2em, weight: "bold")[#phrase #linebreak()]
 #let tab = h(2em)
 
 // actual template
