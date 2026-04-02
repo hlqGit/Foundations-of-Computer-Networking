@@ -1,0 +1,14 @@
+# Typst
+*.pdf
+build/
+.typst/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
